@@ -1,0 +1,22 @@
+.hours {
+    table-layout: fixed;
+    width: 100%;
+    /* width: 1500px; */
+    white-space: nowrap;
+  }
+  .hours td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+
+.row-dow {
+    width: 20px;
+  }
+.row-16 {
+  width: 16px;
+}
+.row-8 {
+  width: 8px;
+}
